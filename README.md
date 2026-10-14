@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ AI-Powered Energy Consumption Forecasting System
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
@@ -102,3 +103,6 @@ streamlit run app.py
 Shravani Mane CSE-AIML Student 
 
 I build AI solutions that bridge the gap between complex data and real-world impact. Developed with ❤️ for Sustainable Engineering.    
+=======
+# AI-Energy-Consumption-Forecasting-main
+>>>>>>> origin/main
