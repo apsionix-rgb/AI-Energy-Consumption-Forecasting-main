@@ -1,6 +1,13 @@
 <<<<<<< HEAD
 # ⚡ AI-Powered Energy Consumption Forecasting System
 
+
+## 🚀 Live Demo
+
+**[Click here to open the AI Energy Consumption Forecasting App](https://fictional-adventure-96j59xp45vwj2p9wq-8501.app.github.dev/)**
+
+
+
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-orange?logo=scikit-learn)](https://scikit-learn.org/)
 [![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red?logo=streamlit)](https://streamlit.io/)
