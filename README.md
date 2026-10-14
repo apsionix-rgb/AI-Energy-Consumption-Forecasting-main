@@ -100,7 +100,7 @@ python main.py
 streamlit run app.py
 
 ### 👩‍💻 About the Developer
-Shravani Mane CSE-AIML Student 
+Syed Qadeer Hussain CSE-AIML Student 
 
 I build AI solutions that bridge the gap between complex data and real-world impact. Developed with ❤️ for Sustainable Engineering.    
 =======
